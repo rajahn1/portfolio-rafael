@@ -3907,3 +3907,7 @@ input, select, textarea {
 			}
 
 		}
+
+		.nextjs {
+			width: 40px;
+		}
