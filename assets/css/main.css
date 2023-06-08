@@ -3911,3 +3911,7 @@ input, select, textarea {
 		.nextjs {
 			width: 40px;
 		}
+
+		#one section {
+			border-bottom: 1px solid white;
+		}
