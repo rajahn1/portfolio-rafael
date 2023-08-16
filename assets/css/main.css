@@ -3913,5 +3913,9 @@ input, select, textarea {
 		}
 
 		#one section {
-			border-bottom: 1px solid white;
+			border-bottom: 1px solid gray;
+		}
+
+		.info-icon:hover {
+			cursor: pointer;
 		}
