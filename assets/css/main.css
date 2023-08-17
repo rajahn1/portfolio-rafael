@@ -3919,3 +3919,8 @@ input, select, textarea {
 		.info-icon:hover {
 			cursor: pointer;
 		}
+
+		.about-me-info {
+			font-size: 1rem;
+			display: none;
+		}
