@@ -3921,6 +3921,22 @@ input, select, textarea {
 		}
 
 		.about-me-info {
-			font-size: 1rem;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			font-size: 0.8rem;
+			line-height: 1.6rem;
+			font-weight: bold;
+			padding: 0 4rem;
+			margin-bottom: 1rem;
 			display: none;
+			border: 4px dotted rgb(225, 0, 255);
+			text-align: center;
+		}
+
+		.perfil-image {
+			width: 164px;
+			border-radius: 50%;
+			margin: 1rem 0;
+			border: 4px groove rgb(34, 34, 220);
 		}
