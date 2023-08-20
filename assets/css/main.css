@@ -3930,7 +3930,6 @@ input, select, textarea {
 			padding: 0 4rem;
 			margin-bottom: 1rem;
 			display: none;
-			border: 4px dotted rgb(225, 0, 255);
 			text-align: center;
 			-webkit-animation: puff-in-center 0.7s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
 	        animation: puff-in-center 0.7s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
